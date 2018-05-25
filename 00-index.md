@@ -21,5 +21,7 @@ Contact
 &nbsp;&nbsp;&nbsp;<a href="mailto:badoi.phan@pitt.edu">badoi.phan@pitt.edu</a>
 </p>
 
+&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/phan-cv.pdf)<br>
+<br><br>
 ------------------
 <a href="github.com/badoi">

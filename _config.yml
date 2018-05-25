@@ -7,13 +7,13 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jaffe Lab
-tagline : Computational Biology
+title : BaDoi Phan
+tagline : MD/PhD in Training
 author : 
-  name : Andrew Jaffe
-  email : andrew.jaffe@libd.org
-  github : andrewejaffe
-  twitter : andrewejaffe
+  name : BaDoi Phan
+  email : badoi.phan@pitt.edu
+  github : badoi
+  twitter : BaDoiPhan
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -23,8 +23,6 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.aejaffe.com
-
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

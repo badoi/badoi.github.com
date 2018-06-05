@@ -16,7 +16,7 @@ Previously while at Johns Hopkins University and then the Lieber Institute for B
 
 Contact
 -------
-<img src="media/badoi.jpg" alt="BaDoi Phan" style="width: 150px;" align="left"/>
+<img src="media/badoi.jpg" alt="BaDoi Phan" style="width: 250px;" align="left"/>
 
 &nbsp;&nbsp;&nbsp;BaDoi Phan<br>
 &nbsp;&nbsp;&nbsp;[MD/PhD Trainee](http://www.mdphd.pitt.edu/students/badoi-phan)<br>

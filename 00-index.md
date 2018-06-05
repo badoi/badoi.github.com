@@ -12,7 +12,7 @@ I am an MD/PhD traineed in the joint MSTP at the University of Pittsburgh and Ca
 
 Research Interests
 ------------------
-Previously while at Johns Hopkins University and then the Lieber Institute for Brain development, I worked with Drs. Brady Maher and [Andrew Jaffe](http://aejaffe.com). In Pittsburgh, I rotated with [Awndreas Pfenning](http://www.pfenninglab.org) at CMU in summer 2017 and [Anne-Ruxandra Carvunis](http://www.carvunis.com) in summer 2018. 
+Previously while at Johns Hopkins University and then the Lieber Institute for Brain development, I worked with Drs. Brady Maher and [Andrew Jaffe](http://aejaffe.com). In Pittsburgh, I rotated with [Andreas Pfenning](http://www.pfenninglab.org) at CMU in summer 2017 and [Anne-Ruxandra Carvunis](http://www.carvunis.com) in summer 2018. 
 
 Contact
 -------

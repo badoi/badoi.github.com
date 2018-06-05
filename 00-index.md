@@ -16,16 +16,13 @@ Previously while at Johns Hopkins University and then the Lieber Institute for B
 
 Contact
 -------
-<img src="media/badoi.jpg" alt="BaDoi Phan" style="width: 125px;" align="left"/>
+<img src="media/badoi.jpg" alt="BaDoi Phan" style="width: 150px;" align="left"/>
 
 &nbsp;&nbsp;&nbsp;BaDoi Phan<br>
 &nbsp;&nbsp;&nbsp;[MD/PhD Trainee](http://www.mdphd.pitt.edu/students/badoi-phan)<br>
 &nbsp;&nbsp;&nbsp;[University of Pittsburgh School of Medicine](http://medschool.pitt.edu)<br>
-<br>
-<p>Email:<br>
-&nbsp;&nbsp;&nbsp;<a href="mailto:badoi.phan@pitt.edu">badoi.phan@pitt.edu</a>
-<br>
-&nbsp;&nbsp;&nbsp;[Contact](index.html) | [CV](files/phan-cv.pdf)<br>
+&nbsp;&nbsp;&nbsp;Email: <a href="mailto:badoi.phan@pitt.edu">badoi.phan@pitt.edu</a> <br>
+&nbsp;&nbsp;&nbsp;[CV](files/phan-cv.pdf)<br>
 <br><br>
-------------------
+
 <a href="github.com/badoi">

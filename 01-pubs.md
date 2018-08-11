@@ -24,7 +24,7 @@ Maynard KR, Hobbs JW, <b>Phan BN</b>, Gupta A, Rajpurohit S, C Williams,  Rajpur
 BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2018/01/19/250332)
 
-Emily E Burke, Joshua G Chenoweth, Joo Heon Shin, Leonardo Collado-Torres, Suel Kee Kim, Nicola Micali, Yanhong Wang, Richard E Straub, Daniel J Hoeppner, Huei-Ying Chen, Alana Lescure, Kamel Shibbani, Gregory R Hamersky, <b>BaDoi N Phan<b/>, William S Ulrich, Cristian Valencia, Amritha Jaishankar, Amanda J Price, Anandita Rajpurohit, Stephen A Semick, Roland Bürli, James C Barrow, Daniel J Hiler, Stephanie Cerceo Page, Keri Martinowich, Thomas M Hyde, Joel E Kleinman, Karen F Berman, José A Apud, Alan J Cross, Nick J Brandon, Daniel R Weinberger, Brady J Maher, Ronald DG McKay, Andrew E Jaffe<sup>&dagger;</sup><br>
+Emily E Burke, Joshua G Chenoweth, Joo Heon Shin, Leonardo Collado-Torres, Suel Kee Kim, Nicola Micali, Yanhong Wang, Richard E Straub, Daniel J Hoeppner, Huei-Ying Chen, Alana Lescure, Kamel Shibbani, Gregory R Hamersky, <b>BaDoi N Phan</b>, William S Ulrich, Cristian Valencia, Amritha Jaishankar, Amanda J Price, Anandita Rajpurohit, Stephen A Semick, Roland Bürli, James C Barrow, Daniel J Hiler, Stephanie Cerceo Page, Keri Martinowich, Thomas M Hyde, Joel E Kleinman, Karen F Berman, José A Apud, Alan J Cross, Nick J Brandon, Daniel R Weinberger, Brady J Maher, Ronald DG McKay, Andrew E Jaffe<sup>&dagger;</sup><br>
 Dissecting transcriptomic signatures of neuronal differentiation and maturation using iPSCs.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
 

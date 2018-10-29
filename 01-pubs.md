@@ -20,13 +20,19 @@ permalink: "publications.html"
 Defects of myelination are common pathophysiology in syndromic and idiopathic autism spectrum disorders.<br>
 [bioRxiv](http://biorxiv.org/content/early/2017/04/18/128124)
 
-Maynard KR, Hobbs JW, <b>Phan BN</b>, Gupta A, Rajpurohit S, C Williams,  Rajpurohit N, Shin JH,  Jaffe AE, Martinowich K<sup>&dagger;</sup><br>
-BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
-[bioRxiv](https://www.biorxiv.org/content/early/2018/01/19/250332)
-
 Emily E Burke, Joshua G Chenoweth, Joo Heon Shin, Leonardo Collado-Torres, Suel Kee Kim, Nicola Micali, Yanhong Wang, Richard E Straub, Daniel J Hoeppner, Huei-Ying Chen, Alana Lescure, Kamel Shibbani, Gregory R Hamersky, <b>BaDoi N Phan</b>, William S Ulrich, Cristian Valencia, Amritha Jaishankar, Amanda J Price, Anandita Rajpurohit, Stephen A Semick, Roland Bürli, James C Barrow, Daniel J Hiler, Stephanie Cerceo Page, Keri Martinowich, Thomas M Hyde, Joel E Kleinman, Karen F Berman, José A Apud, Alan J Cross, Nick J Brandon, Daniel R Weinberger, Brady J Maher, Ronald DG McKay, Andrew E Jaffe<sup>&dagger;</sup><br>
 Dissecting transcriptomic signatures of neuronal differentiation and maturation using iPSCs.<br>
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
+
+#### 2018
+Chen HC, Polisetty TS, Zhu K, <b>Phan BN</b>, Durr NJ, Tian J, Mahoney NR. A Quantitative Analysis of Factors Influencing Lower Lid Retraction and Involutional Ectropion.<br>
+JPRAS. Accepted 2018 Oct 29. <br>
+
+Maynard KR, Hobbs JW, <b>Phan BN</b>, Gupta A, Rajpurohit S, C Williams,  Rajpurohit N, Shin JH,  Jaffe AE, Martinowich K<sup>&dagger;</sup><br>
+BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
+Elife. 2018 Sep 7. <br>
+[DOI](http://dx.doi.org/10.7554/eLife.33676)
+[PMID](https://www.ncbi.nlm.nih.gov/pubmed/30192229)
 
 #### 2017
 Page SC, Hamersky GR, Gallo RA, Rannals MD, Calcaterra NE, Campbell MN, Mayfield B, Briley A, <b>Phan BN</b>, Jaffe AE, Maher BJ<sup>&dagger;</sup><br>

@@ -25,33 +25,34 @@ Dissecting transcriptomic signatures of neuronal differentiation and maturation 
 [bioRxiv](https://www.biorxiv.org/content/early/2018/07/31/380758)
 
 #### 2018
-Chen HC, Polisetty TS, Zhu K, <b>Phan BN</b>, Durr NJ, Tian J, Mahoney NR. A Quantitative Analysis of Factors Influencing Lower Lid Retraction and Involutional Ectropion.<br>
+Chen HC<sup>&dagger;</sup>, Polisetty TS, Zhu K, <b>Phan BN</b>, Durr NJ, Tian J, Mahoney NR. <br>
+A Quantitative Analysis of Factors Influencing Lower Lid Retraction and Involutional Ectropion. <br>
 JPRAS. Accepted 2018 Oct 29. <br>
 
 Maynard KR, Hobbs JW, <b>Phan BN</b>, Gupta A, Rajpurohit S, C Williams,  Rajpurohit N, Shin JH,  Jaffe AE, Martinowich K<sup>&dagger;</sup><br>
 BDNF-TrkB signaling in oxytocin neurons contributes to maternal behavior.<br>
-Elife. 2018 Sep 7. <br>
+Elife. 2018 Sep 7.
 [DOI](http://dx.doi.org/10.7554/eLife.33676)
 [PMID](https://www.ncbi.nlm.nih.gov/pubmed/30192229)
 
 #### 2017
 Page SC, Hamersky GR, Gallo RA, Rannals MD, Calcaterra NE, Campbell MN, Mayfield B, Briley A, <b>Phan BN</b>, Jaffe AE, Maher BJ<sup>&dagger;</sup><br>
 The schizophrenia- and autism-associated gene, transcription factor 4 regulates the columnar distribution of layer 2/3 prefrontal pyramidal neurons in an activity-dependent manner.<br>
-Mol Psychiatry. 2017 Mar 14. <br>
+Mol Psychiatry. 2017 Mar 14.
 [DOI](http://dx.doi.org/10.1038/mp.2017.37)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/28289282)
 
 #### 2016
 Rannals MD, Hamersky GR, Page SC, Campbell MN, Briley A, Gallo RA, <b>Phan BN</b>, Hyde TM, Kleinman JE, Shin JH, Jaffe AE, Weinberger DR, Maher BJ<sup>&dagger;</sup><br>
 Psychiatric Risk Gene Transcription Factor 4 Regulates Intrinsic Excitability of Prefrontal Neurons via Repression of SCN10a and KCNQ1.<br>
-Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0.<br>
+Neuron. 2016 Mar 8. pii: S0896-6273(16)00138-0.
 [DOI](http://dx.doi.org/10.1016/j.neuron.2016.02.021)
 [PMID](http://www.ncbi.nlm.nih.gov/pubmed/26971948)
 
 ### Other
 Haase EB<sup>&dagger;</sup>, <b>Phan BN</b>, Goldberg H<br>
 Molecules and Cells: Team-based and Multi-modal Learning Improves Comprehension and Increases Content Retention<br>
-ASEE Annual Conference & Exposition. 2017 June 25.<br>
+ASEE Annual Conference & Exposition. 2017 June 25.
 [Conference Paper](https://www.asee.org/public/conferences/78/papers/19703/view)
 
 ---------------------
